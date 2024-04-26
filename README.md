@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingoboiii&theme=default&show_icons=true&hide_border=true&layout=compact#gh-light-mode-only)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingoboiii&theme=default&show_icons=true&hide_border=true#gh-light-mode-only)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingoboiii&theme=dark&show_icons=true&hide_border=true#gh-dark-mode-only)
 
 <!--
